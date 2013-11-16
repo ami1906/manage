@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Paranoid Scaffold</title>
+  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+<% debugger %>
+<% if !session[:user_id].nil? %>
+<nav class="navbar navbar-default" role="navigation">
+  <div class="navbar-header">
+   <a class="navbar-brand git" href="#"><%=image_tag("github.png",:size => "50x50")%>Paranoid Scaffold</a>
+  </div>
+  <div class="collapse navbar-collapse" >
+      <div class="navbar-form navbar-left" role="search">
+<%live_search = active_scaffold_config.search.live? %>
+<% id = session[:user_id] %>
+ <%= form_tag students_path,:id => 'as_students-search--form', :class => 'as_form',:remote => true, :method => 'get'%>
+     <%=text_field_tag 'search',nil, :id => 'as_students-search-input', :placeholder => 'Search using Name', :class => 'form-control size', :autocomplete => :off %>
+     <%= submit_tag as_(:search), :class => "submit" %>
+        <%= link_to "Reset","/students?search=", :class =>"reset_pad", :remote => true, :data => {:refresh =>true} %>
+    </form>
+ 
+</div>
+    <ul class="nav navbar-nav navbar-right">
+<li><a href="#">Welcome <%= session[:display_name].camelize%></a></li>
+  <li><%= link_to "<span class='glyphicon glyphicon-log-out font-logout'></span>".html_safe, controller: "session", action: "logout" %>
+</li>
+   
+    </ul>
+  </div>
+</nav>
+
+<% end %>
+<%= yield %>
+
+<script type="text/javascript">
+//<![CDATA[
+<% if !id.nil? %>
+<% if live_search && ActiveScaffold.js_framework == :jquery %>
+ jQuery(<%= "##{search_input_id}".to_json.html_safe %>).next().hide();
+  jQuery(<%= "##{search_input_id}".to_json.html_safe %>).delayedObserver(0.5, function() {
+     jQuery(<%= "##{search_input_id}".to_json.html_safe %>).parent().trigger("submit");
+});
+<% end -%>
+ActiveScaffold.focus_first_element_of_form('<%= element_form_id(:action => 'search') %>');
+<% end %>
+//]]>
+</script>
+
+</body>
+</html>

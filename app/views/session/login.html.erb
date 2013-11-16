@@ -1,0 +1,56 @@
+<style>
+body {
+     padding-top: 40px;
+     padding-bottom: 40px;
+     background-color: #f5f5f5;
+}
+</style>
+<div class="container">
+<%= form_for :post, url:"login", :html=>{:class=>"form-signin",:role=>"form"} do |f|%>
+ <h2 class="form-signin-heading text-center">Please sign in</h2>
+ <% if @message %>
+ <div class="alert alert-danger">
+ <%= @message %>
+ </div>
+ <% end %>
+ <%= f.text_field(:username,:class => "form-control",:placeholder=>"User Name") %>
+ <%= f.password_field(:password,:class => "form-control",:placeholder=>"Password") %>
+ <p class="text-center"><%= f.button "Sign In",:type=>"submit",:class=>"btn btn-large btn-primary" %></p>
+<% end %>
+<div class="notes">
+<p> This app is a demonstration of <b>Paranoid</b> and <b>Active Scaffold</b> Gem </p>
+<p> <b>Roles:</b> Admin, Faculty </p>
+<p><b>Admin:</b> Can do the CRUDR(Create, Read/View, Update/Edit, Delete, Restore) operation on Student Record</p>
+<p> <b>Faculty:</b> Can do the RU(Read/View, Update/Edit) operation on Student Record</p>
+<table class="table table-bordered">
+<tr>
+<td> Role </td>
+<td> User Name </td>
+<td> Password </td>
+</tr>
+<tr>
+<td> Admin </td>
+<td> admin </td>
+<td> admin</td>
+</tr>
+<tr>
+<td> Faculty </td>
+<td> faculty </td>
+<td> faculty </td>
+</tr>
+
+</table>
+<table class="table table-bordered">
+<tr class="active">
+<td>
+<%= link_to "AboutApp", controller: "session", action: "logout" %>
+</td><td>
+<%= link_to "AboutAuthor", controller: "session", action: "logout" %>
+</td><td>
+<%= link_to "SourceCode", controller: "session", action: "logout" %>
+</td></tr>
+<table>
+</div>
+</div>
+ 
+

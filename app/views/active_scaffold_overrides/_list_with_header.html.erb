@@ -1,0 +1,14 @@
+<% debugger %>
+<div id="<%= active_scaffold_id -%>" class="<%= as_main_div_class %> scaffold_width" <%= "data-eid=#{id_from_controller(params[:eid])}" if params[:eid]%>>
+  <div class="active-scaffold-header">
+    <%= render :partial => 'list_header' %>
+  </div>
+<table>
+    <tbody class="before-header" id="<%= before_header_id -%>">
+</tbody>
+</table>
+<div id="<%= active_scaffold_content_id-%>" class="as_content">
+    <%= render :partial => 'list' %>
+  </div>
+</div>
+
