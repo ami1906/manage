@@ -43,11 +43,13 @@ body {
 <table class="table table-bordered">
 <tr class="active">
 <td>
-<%= link_to "AboutApp", controller: "session", action: "logout" %>
-</td><td>
-<%= link_to "AboutAuthor", controller: "session", action: "logout" %>
-</td><td>
-<%= link_to "SourceCode", controller: "session", action: "logout" %>
+<%= link_to "About Author", "http://amarnathks.wordpress.com/about/",:target => "_blank" %>
+</td>
+<td>
+<b>Total Visits:</b> <%= Hits.find(1).count %>
+</td>
+<td>
+<%= link_to "Source Code", "https://github.com/ami1906/manage", :target => "_blank" %>
 </td></tr>
 <table>
 </div>
