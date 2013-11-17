@@ -6,7 +6,7 @@
 
  For details, see the ActiveScaffold web site: http://www.activescaffold.com/
 */
-/* line 5, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 5, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold form,
 .active-scaffold table,
 .active-scaffold p,
@@ -16,47 +16,47 @@
   padding: 0;
 }
 
-/* line 10, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 10, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold {
   margin: 5px 0;
 }
 
-/* line 14, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 14, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold table {
   width: 100%;
   border-collapse: collapse;
 }
 
-/* line 18, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 18, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold td, .active-scaffold th {
   padding: 0;
 }
 
-/* line 21, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 21, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold a,
 .active-scaffold a:visited {
   text-decoration: none;
 }
 
-/* line 26, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 26, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold div.actions a img,
 .active-scaffold td.actions a img {
   border: none;
   vertical-align: middle;
 }
 
-/* line 32, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 32, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold div.actions a.disabled img,
 .active-scaffold td.actions a.disabled img {
   opacity: 0.5;
 }
 
-/* line 36, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 36, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .clear-fix {
   clear: both;
 }
 
-/* line 40, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 40, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 noscript.active-scaffold {
   border-left: solid 5px;
   font-size: 11px;
@@ -64,26 +64,26 @@ noscript.active-scaffold {
   padding: 5px 20px 5px 5px;
 }
 
-/* line 47, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 47, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .mark_record_column {
   width: 1px;
 }
 
 /* Header
    ======================== */
-/* line 54, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 54, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold-header {
   position: relative;
 }
 
-/* line 58, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 58, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold-header h2 {
   padding: 2px 0px;
   margin: 0;
   font: bold 160% arial, sans-serif;
 }
 
-/* line 65, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 65, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold-header div.actions a,
 .active-scaffold-header div.actions {
   float: right;
@@ -97,54 +97,54 @@ noscript.active-scaffold {
   background-repeat: no-repeat;
 }
 
-/* line 77, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 77, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold-header div.actions a {
   padding: 5px 5px;
   margin-left: 0px;
 }
 
-/* line 82, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 82, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .active-scaffold .active-scaffold-header div.actions > a {
   padding: 1px 5px;
 }
 
-/* line 86, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 86, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold-header div.actions div.action_group {
   display: inline;
   float: right;
 }
 
-/* line 92, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 92, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold-header div.actions div.action_group li a,
 .active-scaffold-header div.actions div.action_group li div {
   float: none;
   margin: 0;
 }
 
-/* line 97, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 97, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold-header div.actions .action_group ul {
   line-height: 130%;
   top: 19px;
 }
 
-/* line 102, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 102, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .active-scaffold .active-scaffold-header div.actions .action_group ul {
   top: 14px;
 }
 
-/* line 108, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 108, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .view .active-scaffold-header div.actions a,
 .view .active-scaffold-header div.actions div,
 .view .active-scaffold-header div.actions div.action_group {
   float: left;
 }
 
-/* line 112, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 112, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold-header div.actions a.disabled {
   opacity: 0.5;
 }
 
-/* line 120, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 120, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold-header div.actions a.new,
 .active-scaffold-header div.actions a.new_existing,
 .active-scaffold-header div.actions a.show_search,
@@ -156,7 +156,7 @@ noscript.active-scaffold {
   background-repeat: no-repeat;
 }
 
-/* line 131, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 131, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .active-scaffold .active-scaffold-header div.actions > a.new,
 .active-scaffold .active-scaffold .active-scaffold-header div.actions > a.new_existing,
 .active-scaffold .active-scaffold .active-scaffold-header div.actions > a.show_search,
@@ -168,7 +168,7 @@ noscript.active-scaffold {
   background-repeat: no-repeat;
 }
 
-/* line 138, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 138, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold-header div.actions a.disabled:hover {
   background-color: transparent;
   cursor: default;
@@ -176,53 +176,53 @@ noscript.active-scaffold {
 
 /* Table :: Column Headers
    ============================= */
-/* line 146, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 146, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold th {
   text-align: left;
 }
 
-/* line 151, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 151, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold th a,
 .active-scaffold th p {
   font: bold 11px arial, sans-serif;
   display: block;
 }
 
-/* line 156, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 156, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold th a, .active-scaffold th a:visited {
   padding: 2px 2px 2px 5px;
 }
 
-/* line 160, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 160, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold th p {
   padding: 2px 5px;
 }
 
-/* line 164, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 164, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold th.sorted a {
   padding-right: 18px;
 }
 
-/* line 170, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 170, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold th.asc a,
 .active-scaffold th.desc a,
 .active-scaffold th.loading a {
   background: right 50% no-repeat;
 }
 
-/* line 174, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 174, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold th .mark_heading {
   margin-left: 5px;
 }
 
-/* line 178, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 178, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold th.hidden, .active-scaffold td.hidden {
   display: none;
 }
 
 /* Table :: Record Rows
    ============================= */
-/* line 185, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 185, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold tr.record td {
   padding: 5px 4px;
   font-family: Verdana, sans-serif;
@@ -231,27 +231,27 @@ noscript.active-scaffold {
   border-width: 0 0 1px 1px;
 }
 
-/* line 193, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 193, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold tr.record td.messages-container {
   padding: 0px;
 }
 
-/* line 197, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 197, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold tbody.records td.empty {
   text-align: center;
 }
 
-/* line 200, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 200, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold tbody.records td.in_place_editor_field .handle {
   display: none;
 }
 
-/* line 203, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 203, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold tbody.records td.in_place_editor_field.empty .handle {
   display: inline;
 }
 
-/* line 208, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 208, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold td.numeric,
 .active-scaffold-calculations td {
   text-align: right;
@@ -259,28 +259,28 @@ noscript.active-scaffold {
 
 /* Table :: Actions (Edit, Delete)
    ============================= */
-/* line 214, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 214, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold tr.record td.actions {
   border-right: solid 1px;
   padding: 0;
   min-width: 1%;
 }
 
-/* line 220, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 220, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold tr.record td.actions table {
   float: right;
   width: auto;
   margin-right: 5px;
 }
 
-/* line 226, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 226, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold tr.record td.actions table td {
   border: none;
   text-align: right;
   padding: 0 2px;
 }
 
-/* line 233, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 233, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold tr.record td.actions a,
 .active-scaffold tr.record td.actions div {
   font: bold 11px verdana, sans-serif;
@@ -291,18 +291,18 @@ noscript.active-scaffold {
   white-space: nowrap;
 }
 
-/* line 242, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 242, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold tr.record td.actions a.disabled {
   opacity: 0.5;
 }
 
-/* line 246, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 246, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .actions .action_group {
   position: relative;
   text-align: left;
 }
 
-/* line 251, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 251, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .actions .action_group ul {
   border: 2px solid;
   list-style-type: none;
@@ -316,13 +316,13 @@ noscript.active-scaffold {
   z-index: 2;
 }
 
-/* line 263, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 263, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .actions .action_group.dyn ul {
   width: auto;
   display: block;
 }
 
-/* line 268, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 268, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .actions .action_group ul ul {
   display: none;
   position: absolute;
@@ -330,7 +330,7 @@ noscript.active-scaffold {
   right: 150px;
 }
 
-/* line 275, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 275, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .actions .action_group ul li {
   background: none repeat scroll 0 0;
   border-top: 1px dashed;
@@ -340,7 +340,7 @@ noscript.active-scaffold {
   text-align: left;
 }
 
-/* line 284, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 284, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .actions .action_group ul li div {
   margin: 0;
   padding: 5px 5px 5px 25px;
@@ -348,7 +348,7 @@ noscript.active-scaffold {
   background-repeat: no-repeat;
 }
 
-/* line 291, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 291, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .actions .action_group ul li a {
   display: block;
   margin: 0;
@@ -357,23 +357,23 @@ noscript.active-scaffold {
   background-repeat: no-repeat;
 }
 
-/* line 298, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 298, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .actions .action_group.dyn ul li a {
   padding-left: 5px;
 }
 
-/* line 302, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 302, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .actions .action_group ul li.top {
   border-top-width: 0px;
 }
 
-/* line 307, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 307, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .actions .action_group:hover ul ul,
 .active-scaffold .actions .action_group:hover ul ul ul {
   display: none;
 }
 
-/* line 313, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 313, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .actions .action_group:hover ul,
 .active-scaffold .actions .action_group ul li:hover > ul,
 .active-scaffold .actions .action_group ul ul li:hover ul {
@@ -382,23 +382,23 @@ noscript.active-scaffold {
 
 /* Table :: Inline Adapter
    ============================= */
-/* line 320, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 320, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .view {
   padding: 4px;
   border: solid 1px;
 }
 
-/* line 325, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 325, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold tbody.records td.inline-adapter-cell .view {
   border-top: none;
 }
 
-/* line 329, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 329, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .before-header td.inline-adapter-cell .view {
   border-bottom: none;
 }
 
-/* line 333, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 333, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold a.inline-adapter-close {
   float: right;
   text-indent: -4000px;
@@ -409,89 +409,89 @@ noscript.active-scaffold {
 
 /* Nested
    ======================== */
-/* line 344, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 344, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .active-scaffold .active-scaffold-header {
   margin-right: 25px;
 }
 
-/* line 348, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 348, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .active-scaffold .active-scaffold-header h2 {
   font-size: 12px;
   font-weight: bold;
 }
 
-/* line 354, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 354, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .active-scaffold .active-scaffold-header div.actions {
   top: 0px;
   right: 0px;
 }
 
-/* line 360, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 360, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .active-scaffold .active-scaffold-header div.actions a,
 .active-scaffold .active-scaffold .active-scaffold-header div.actions div {
   font: bold 11px verdana, sans-serif;
 }
 
-/* line 364, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 364, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .active-scaffold .view {
   background-color: transparent;
   padding: 0px;
   border: none;
 }
 
-/* line 370, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 370, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .active-scaffold td {
   border-bottom: solid 1px;
   border-left: solid 1px;
 }
 
-/* line 375, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 375, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .active-scaffold td.inline-adapter-cell {
   padding: 4px;
   border: solid 1px;
   border-top: none;
 }
 
-/* line 381, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 381, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .active-scaffold .active-scaffold td.inline-adapter-cell {
   padding: 4px;
   border: solid 1px;
   border-top: none;
 }
 
-/* line 387, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 387, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .active-scaffold .active-scaffold-footer {
   font-size: 11px;
 }
 
 /* Footer
    ========================== */
-/* line 394, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 394, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold-calculations td {
   border-top: 2px solid;
   font: bold 12px arial, sans-serif;
 }
 
-/* line 399, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 399, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .active-scaffold-footer {
   padding: 3px 0px 2px 0px;
   border-bottom: none;
   font: bold 12px arial, sans-serif;
 }
 
-/* line 404, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 404, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .active-scaffold-footer > br {
   clear: both;
 }
 
-/* line 408, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 408, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold-footer .active-scaffold-pagination {
   float: right;
   white-space: nowrap;
   margin-right: 5px;
 }
 
-/* line 414, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 414, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold-footer a {
   text-decoration: none;
   letter-spacing: 0;
@@ -500,14 +500,14 @@ noscript.active-scaffold {
   font: bold 12px arial, sans-serif;
 }
 
-/* line 422, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 422, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold-footer .next {
   margin-left: 0;
   padding-left: 5px;
   border-left: solid 1px;
 }
 
-/* line 428, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 428, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold-footer .previous {
   margin-right: 0;
   padding-right: 5px;
@@ -516,7 +516,7 @@ noscript.active-scaffold {
 
 /* Messages
    ========================= */
-/* line 438, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 438, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .messages-container,
 .active-scaffold .active-scaffold .messages-container {
   padding: 0;
@@ -524,14 +524,14 @@ noscript.active-scaffold {
   border: none;
 }
 
-/* line 444, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 444, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .empty-message, .active-scaffold .filtered-message {
   padding: 4px;
   text-align: center;
   position: relative;
 }
 
-/* line 450, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 450, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .message {
   font-size: 11px;
   font-weight: bold;
@@ -541,13 +541,13 @@ noscript.active-scaffold {
   line-height: 12px;
 }
 
-/* line 459, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 459, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .message .timestamp,
 .active-scaffold .message .message-content {
   display: inline;
 }
 
-/* line 463, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 463, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .filtered-message .reset {
   position: absolute;
   display: inline;
@@ -556,7 +556,7 @@ noscript.active-scaffold {
   padding: 0;
 }
 
-/* line 471, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 471, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .message a.close {
   position: absolute;
   right: 10px;
@@ -566,39 +566,39 @@ noscript.active-scaffold {
   letter-spacing: -1px;
 }
 
-/* line 480, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 480, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .messages-container .message {
   margin: 0;
 }
 
-/* line 484, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 484, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .error-message {
   border-left: solid 5px;
 }
 
-/* line 488, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 488, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .warning-message {
   border-left: solid 5px;
 }
 
-/* line 492, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 492, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .info-message {
   border-left: solid 5px;
 }
 
 /* Error Styling
    ========================== */
-/* line 499, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 499, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .errorExplanation {
   border: solid 1px;
 }
 
-/* line 503, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 503, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold fieldset {
   clear: both;
 }
 
-/* line 507, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 507, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .errorExplanation h2 {
   padding: 2px 5px;
   font-size: 11px;
@@ -607,14 +607,14 @@ noscript.active-scaffold {
   font-family: Verdana;
 }
 
-/* line 515, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 515, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .errorExplanation ul {
   margin: 0;
   padding: 0 2px 4px 25px;
   list-style: disc;
 }
 
-/* line 521, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 521, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .errorExplanation p {
   font-size: 11px;
   padding: 2px 5px;
@@ -622,7 +622,7 @@ noscript.active-scaffold {
   margin: 0;
 }
 
-/* line 528, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 528, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .errorExplanation ul li {
   font: bold 11px verdana;
   letter-spacing: -1px;
@@ -633,31 +633,31 @@ noscript.active-scaffold {
 
 /* Loading Indicators
    ============================== */
-/* line 539, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 539, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .loading-indicator {
   vertical-align: text-bottom;
   width: 16px;
   margin: 0;
 }
 
-/* line 545, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 545, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .active-scaffold-header .loading-indicator {
   margin-top: 3px;
 }
 
 /* Show
    ============================= */
-/* line 552, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 552, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .show-view dl {
   margin-left: 5px;
 }
 
-/* line 555, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 555, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .show-view dl dl {
   margin-left: 0px;
 }
 
-/* line 559, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 559, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .show-view dt {
   width: 12em;
   float: left;
@@ -666,7 +666,7 @@ noscript.active-scaffold {
   line-height: 16px;
 }
 
-/* line 567, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 567, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .show-view dd {
   float: left;
   font: bold 14px arial;
@@ -676,12 +676,12 @@ noscript.active-scaffold {
 
 /* Form
    ============================== */
-/* line 577, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 577, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold dl {
   margin: 0;
 }
 
-/* line 581, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 581, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .submit {
   font-weight: bold;
   font-size: 14px;
@@ -691,17 +691,17 @@ noscript.active-scaffold {
   margin-top: 5px;
 }
 
-/* line 590, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 590, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold form p {
   clear: both;
 }
 
-/* line 594, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 594, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold fieldset {
   border: none;
 }
 
-/* line 599, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 599, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold h4,
 .active-scaffold h5 {
   padding: 2px;
@@ -711,7 +711,7 @@ noscript.active-scaffold {
   font: bold 16px arial;
 }
 
-/* line 607, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 607, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold h5 {
   padding: 0;
   margin: 5px 0 2px 0;
@@ -719,7 +719,7 @@ noscript.active-scaffold {
   letter-spacing: 0;
 }
 
-/* line 614, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 614, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold ol {
   clear: both;
   float: none;
@@ -728,7 +728,7 @@ noscript.active-scaffold {
   list-style: none;
 }
 
-/* line 621, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 621, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold ol:after {
   content: '.';
   visibility: hidden;
@@ -738,12 +738,12 @@ noscript.active-scaffold {
   clear: both;
 }
 
-/* line 630, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 630, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold p.form-footer {
   clear: both;
 }
 
-/* line 635, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 635, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold a.as_cancel,
 .active-scaffold p.form-footer a {
   font: bold 14px arial, sans-serif;
@@ -752,58 +752,58 @@ noscript.active-scaffold {
 
 /* Form :: Fields
    ============================== */
-/* line 643, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 643, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold li.form-element {
   clear: both;
 }
 
-/* line 647, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 647, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold label {
   font: normal 11px verdana, sans-serif;
 }
 
-/* line 651, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 651, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold li.form-element dt {
   float: left;
   width: 12em;
   padding: 6px 0;
 }
 
-/* line 657, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 657, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold li.form-element dd {
   float: left;
 }
 
-/* line 662, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 662, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold li.form-element dd p,
 .active-scaffold li.form-element dd input[type="checkbox"] {
   margin-top: 6px;
 }
 
-/* line 666, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 666, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .form dd {
   margin: 0;
 }
 
-/* line 671, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 671, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .description {
   display: inline-block;
   font-size: 10px;
   margin-left: 5px;
 }
 
-/* line 677, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 677, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .required label {
   font-weight: bold;
 }
 
-/* line 681, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 681, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold label.example {
   font-size: 11px;
   font-family: arial;
 }
 
-/* line 687, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 687, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold input.text-input,
 .active-scaffold select {
   font: bold 16px arial;
@@ -811,12 +811,12 @@ noscript.active-scaffold {
   border: solid 1px;
 }
 
-/* line 693, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 693, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold input.text-input {
   padding: 2px;
 }
 
-/* line 702, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 702, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .fieldWithErrors input,
 .active-scaffold .field_with_errors input,
 .active-scaffold .fieldWithErrors textarea,
@@ -826,12 +826,12 @@ noscript.active-scaffold {
   border: solid 1px;
 }
 
-/* line 706, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 706, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold select {
   padding: 1px;
 }
 
-/* line 711, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 711, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold textarea {
   font-family: Arial, sans-serif;
   font-size: 12px;
@@ -839,23 +839,23 @@ noscript.active-scaffold {
   border: solid 1px;
 }
 
-/* line 718, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 718, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .checkbox-list {
   padding-left: 0px;
 }
 
-/* line 722, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 722, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .checkbox-list li {
   padding-right: 5px;
   display: inline;
 }
 
-/* line 727, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 727, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .checkbox-list li label {
   padding: 0 0 0 2px;
 }
 
-/* line 731, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 731, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .draggable-list {
   float: left;
   width: 300px;
@@ -865,22 +865,22 @@ noscript.active-scaffold {
   overflow: auto;
 }
 
-/* line 740, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 740, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .draggable-list.hover {
   opacity: 0.5;
 }
 
-/* line 745, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 745, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .draggable-list li {
   display: block;
 }
 
-/* line 749, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 749, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 li.draggable-item {
   list-style: none;
 }
 
-/* line 753, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 753, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 li.draggable-item input,
 .active-scaffold .draggable-list input {
   display: none;
@@ -888,7 +888,7 @@ li.draggable-item input,
 
 /* Form :: Sub-Sections
    ============================== */
-/* line 760, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 760, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold li.sub-section {
   clear: left;
   padding: 5px 0;
@@ -896,7 +896,7 @@ li.draggable-item input,
 
 /* Form :: Association Sub-Forms
    ============================== */
-/* line 768, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 768, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .sub-form {
   float: left;
   clear: left;
@@ -904,48 +904,48 @@ li.draggable-item input,
   padding-left: 5px;
 }
 
-/* line 775, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 775, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .sub-form h5 {
   margin-left: -5px;
 }
 
-/* line 780, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 780, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .sub-form table,
 .active-scaffold .sub-form table td {
   width: auto;
   background: none;
 }
 
-/* line 785, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 785, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .sub-form table th {
   font: normal 10px verdana, sans-serif;
   padding: 0 5px 0 1px;
   background: none;
 }
 
-/* line 791, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 791, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .horizontal-sub-form td dt label {
   display: none;
 }
 
-/* line 795, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 795, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .horizontal-sub-form .associated-record dl {
   float: left;
   margin-right: 5px;
 }
 
-/* line 800, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 800, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .sub-form .checkbox-list {
   padding: 0 2px 2px 2px;
   border: solid 1px;
 }
 
-/* line 805, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 805, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .sub-form .checkbox-list label {
   display: block;
 }
 
-/* line 809, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 809, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .sub-form table td {
   border: none;
   background-color: transparent;
@@ -953,14 +953,14 @@ li.draggable-item input,
   vertical-align: top;
 }
 
-/* line 816, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 816, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .sub-form .actions {
   vertical-align: middle;
   background-color: transparent;
   clear: left;
 }
 
-/* line 822, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 822, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .sub-form .association-record a.destroy {
   font-weight: bold;
   display: block;
@@ -971,35 +971,35 @@ li.draggable-item input,
   background: 0 0 no-repeat;
 }
 
-/* line 832, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 832, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .sub-form .locked a.destroy {
   display: none;
 }
 
-/* line 836, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 836, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .sub-form .association-record a {
   font: bold 12px arial;
 }
 
-/* line 841, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 841, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .sub-form input.text-input,
 .active-scaffold .sub-form select {
   letter-spacing: 0;
   font: bold 12px arial;
 }
 
-/* line 846, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 846, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .sub-form .footer-wrapper {
   margin-top: 3px;
   margin-right: 10px;
 }
 
-/* line 851, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 851, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .sub-form .footer {
   padding: 3px 5px;
 }
 
-/* line 856, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 856, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold .sub-form .footer select,
 .active-scaffold .sub-form .footer input {
   font-weight: bold;
@@ -1007,51 +1007,51 @@ li.draggable-item input,
   padding: 0;
 }
 
-/* line 862, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 862, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold a.visibility-toggle {
   font-size: 100%;
 }
 
-/* line 866, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 866, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .active-scaffold-found {
   float: left;
 }
 
-/* line 870, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 870, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .as_touch a.inline-adapter-close {
   width: 25px;
   height: 27px;
   background: 0 0 no-repeat;
 }
 
-/* line 876, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 876, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .as_touch .as_paginate {
   font-size: 20px;
   padding: 3px 10px;
 }
 
-/* line 881, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 881, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .as_touch .active-scaffold-header div.actions a {
   padding: 7px 5px;
 }
 
-/* line 885, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 885, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .as_touch .active-scaffold .active-scaffold-header div.actions a {
   padding: 7px 5px;
 }
 
-/* line 889, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 889, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .as_touch .active-scaffold-header div.actions .action_group ul {
   line-height: 130%;
   top: 23px;
 }
 
-/* line 894, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 894, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .as_touch .active-scaffold .active-scaffold-header div.actions .action_group ul {
   top: 23px;
 }
 
-/* line 902, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 902, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .as_touch .active-scaffold-header div.actions a.new,
 .as_touch .active-scaffold-header div.actions a.new_existing,
 .as_touch .active-scaffold-header div.actions a.show_search,
@@ -1060,7 +1060,7 @@ li.draggable-item input,
   padding: 7px 5px 7px 25px;
 }
 
-/* line 910, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 910, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .as_touch .active-scaffold .active-scaffold-header div.actions > a.new,
 .as_touch .active-scaffold .active-scaffold-header div.actions > a.new_existing,
 .as_touch .active-scaffold .active-scaffold-header div.actions > a.show_search,
@@ -1070,95 +1070,95 @@ li.draggable-item input,
   background-position: 5px 50%;
 }
 
-/* line 915, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 915, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .as_touch .actions .action_group ul li div {
   padding: 7px 5px 7px 25px;
 }
 
-/* line 919, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 919, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .as_touch .actions .action_group ul li a {
   padding: 7px 5px 7px 25px;
 }
 
-/* line 923, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 923, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .as_touch .active-scaffold-header h2 {
   padding: 4px 0px;
 }
 
-/* line 928, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 928, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .as_touch .active-scaffold .active-scaffold-header div.actions a,
 .as_touch .active-scaffold .active-scaffold-header div.actions div {
   font: bold 14px arial;
 }
 
-/* line 932, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 932, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .as_touch .active-scaffold .active-scaffold-header div.actions {
   right: 15px;
 }
 
-/* line 936, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 936, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .as_touch tr.record {
   line-height: 130%;
 }
 
-/* line 940, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 940, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .as_touch th a, .as_touch th a:visited {
   padding: 5px 2px 5px 5px;
 }
 
-/* line 944, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
+/* line 944, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_layout.css */
 .as_touch tr.record td {
   padding: 5px 10px;
 }
 
-/* line 1, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
+/* line 1, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
 .active-scaffold-header div.actions div.action_group div {
   background-image: url(/assets/active_scaffold/gears.png);
   /* default icon for actions or override with css */
 }
 
-/* line 5, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
+/* line 5, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
 .active-scaffold-header div.actions a.show_config_list {
   background-image: url(/assets/active_scaffold/config.png);
 }
 
-/* line 10, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
+/* line 10, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
 .active-scaffold-header div.actions a.new,
 .active-scaffold-header div.actions a.new_existing {
   background-image: url(/assets/active_scaffold/add.png);
 }
 
-/* line 14, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
+/* line 14, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
 .active-scaffold-header div.actions a.show_search {
   background-image: url(/assets/active_scaffold/magnifier.png);
 }
 
-/* line 18, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
+/* line 18, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
 .active-scaffold th.asc a {
   background-image: url(/assets/active_scaffold/arrow_up.png);
 }
 
-/* line 22, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
+/* line 22, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
 .active-scaffold th.desc a {
   background-image: url(/assets/active_scaffold/arrow_down.png);
 }
 
-/* line 26, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
+/* line 26, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
 .active-scaffold th.loading a {
   background-image: url(/assets/active_scaffold/indicator-small.gif);
 }
 
-/* line 30, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
+/* line 30, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
 .active-scaffold a.inline-adapter-close {
   background-image: url(/assets/active_scaffold/close.png);
 }
 
-/* line 34, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
+/* line 34, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
 .active-scaffold .sub-form .association-record a.destroy {
   background-image: url(/assets/active_scaffold/cross.png);
 }
 
-/* line 38, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
+/* line 38, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_images.css.scss */
 .as_touch a.inline-adapter-close {
   background-image: url(/assets/active_scaffold/close_touch.png);
 }
@@ -1172,22 +1172,22 @@ li.draggable-item input,
  For details, see the ActiveScaffold web site: http://www.activescaffold.com/
 
 */
-/* line 87, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 87, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold a, .active-scaffold a:visited {
   color: #0066cc;
 }
 
-/* line 91, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 91, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold a.disabled {
   color: #999999;
 }
 
-/* line 95, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 95, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold a:hover, .active-scaffold div.hover, .active-scaffold td span.hover {
   background-color: #ffff88;
 }
 
-/* line 99, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 99, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 noscript.active-scaffold {
   border-color: #ff6666;
   background-color: #ffbbbb;
@@ -1196,51 +1196,51 @@ noscript.active-scaffold {
 
 /* Header
    ======================== */
-/* line 108, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 108, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold-header h2 {
   color: #555555;
 }
 
-/* line 112, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 112, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold-header div.actions a.disabled {
   color: #666666;
 }
 
 /* Table :: Column Headers
    ============================= */
-/* line 119, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 119, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold th {
   background-color: #555555;
 }
 
-/* line 124, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 124, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold th a,
 .active-scaffold th p {
   background-color: #555555;
 }
 
-/* line 128, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 128, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold th a, .active-scaffold th a:visited {
   color: white;
 }
 
-/* line 132, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 132, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold th p {
   color: #eeeeee;
 }
 
-/* line 136, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 136, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold th a:hover {
   background-color: black;
   color: #ffff88;
 }
 
-/* line 141, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 141, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold th.sorted {
   background-color: #333333;
 }
 
-/* line 150, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 150, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold th.asc a,
 .active-scaffold th.asc a:hover,
 .active-scaffold th.desc a,
@@ -1252,85 +1252,85 @@ noscript.active-scaffold {
 
 /* Table :: Record Rows
    ============================= */
-/* line 157, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 157, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold tr.record {
   background-color: #e6f2ff;
 }
 
-/* line 160, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 160, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold tr.record td {
   color: #333333;
   border-color: #c5dbf7;
 }
 
-/* line 165, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 165, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold tr.even-record {
   background-color: white;
 }
 
-/* line 168, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 168, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold tr.even-record td {
   border-left-color: #dddddd;
 }
 
-/* line 172, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 172, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold tr.record td.sorted {
   background-color: #b9dcff;
   border-bottom-color: #afd0f5;
 }
 
-/* line 177, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 177, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold tr.even-record td.sorted {
   background-color: #e6f2ff;
   border-bottom-color: #afd0f5;
 }
 
-/* line 182, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 182, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold tbody.records td.empty {
   color: #999999;
 }
 
 /* Table :: Actions (Edit, Delete)
    ============================= */
-/* line 188, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 188, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold tr.record td.actions {
   border-color: #cccccc;
 }
 
-/* line 192, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 192, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold tr.record td.actions a.disabled {
   color: #666666;
 }
 
-/* line 196, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 196, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .actions .action_group div:hover {
   background-color: #ffff88;
 }
 
-/* line 200, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 200, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .actions .action_group {
   color: #0066cc;
 }
 
-/* line 204, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 204, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .actions .action_group ul {
   border-color: #005cb8;
 }
 
-/* line 208, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 208, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .actions .action_group ul li {
   background-color: #eeeeee;
   border-color: #222222;
 }
 
-/* line 213, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 213, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .actions .action_group ul li a {
   color: #333333;
 }
 
 /* Table :: Inline Adapter
    ============================= */
-/* line 220, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 220, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .view {
   background-color: #daffcd;
   border-color: #7fcf00;
@@ -1338,29 +1338,29 @@ noscript.active-scaffold {
 
 /* Nested
    ======================== */
-/* line 228, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 228, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .active-scaffold .active-scaffold-footer {
   color: #444444;
 }
 
-/* line 232, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 232, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .active-scaffold tr.record {
   background-color: #ecffe7;
   border-color: #c5dbf7;
 }
 
-/* line 236, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 236, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .active-scaffold tr.even-record {
   background-color: white;
 }
 
-/* line 240, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 240, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .active-scaffold td.inline-adapter-cell {
   background-color: #ffffbb;
   border-color: #dddf37;
 }
 
-/* line 245, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 245, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .active-scaffold .active-scaffold td.inline-adapter-cell {
   background-color: #daffcd;
   border-color: #7fcf00;
@@ -1368,48 +1368,48 @@ noscript.active-scaffold {
 
 /* Footer
    ========================== */
-/* line 253, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 253, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold-calculations td {
   background-color: #eeeeee;
   border-color: #005cb8;
 }
 
-/* line 258, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 258, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold-footer .next {
   border-color: #cccccc;
 }
 
-/* line 262, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 262, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold-footer .previous {
   border-color: #cccccc;
 }
 
 /* Messages
    ========================= */
-/* line 270, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 270, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .empty-message, .active-scaffold .filtered-message {
   background-color: #e8e8e8;
   color: #666666;
 }
 
-/* line 275, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 275, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .message {
   color: #333333;
 }
 
-/* line 279, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 279, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .error-message {
   border-color: #ff6666;
   background-color: #ffbbbb;
 }
 
-/* line 284, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 284, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .warning-message {
   border-color: #ffff66;
   background-color: #ffffbb;
 }
 
-/* line 289, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 289, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .info-message {
   border-color: #6666ff;
   background-color: #bbbbff;
@@ -1417,13 +1417,13 @@ noscript.active-scaffold {
 
 /* Error Styling
    ========================== */
-/* line 297, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 297, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .errorExplanation {
   background-color: #ffbbbb;
   border-color: #ff6666;
 }
 
-/* line 302, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 302, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .errorExplanation h2 {
   color: #333333;
   background-color: #ff6666;
@@ -1431,14 +1431,14 @@ noscript.active-scaffold {
 
 /* Show
    ============================= */
-/* line 310, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 310, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .show-view dt {
   color: #555555;
 }
 
 /* Form
    ============================== */
-/* line 318, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 318, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold h4,
 .active-scaffold h5 {
   color: #1f7f00;
@@ -1446,28 +1446,28 @@ noscript.active-scaffold {
 
 /* Form :: Fields
    ============================== */
-/* line 325, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 325, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold label {
   color: #555555;
 }
 
-/* line 329, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 329, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .description {
   color: #999999;
 }
 
-/* line 333, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 333, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold label.example {
   color: #aaaaaa;
 }
 
-/* line 338, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 338, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold input.text-input,
 .active-scaffold select {
   border-color: #1f7f00;
 }
 
-/* line 350, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 350, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold input:invalid,
 .active-scaffold textarea:invalid,
 .active-scaffold select:invalid,
@@ -1480,61 +1480,61 @@ noscript.active-scaffold {
   border-color: red;
 }
 
-/* line 354, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 354, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold input.example {
   color: #aaaaaa;
 }
 
-/* line 359, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 359, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold select:focus,
 .active-scaffold input.text-input:focus {
   background-color: #ffffcc;
 }
 
-/* line 363, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 363, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold textarea {
   border-color: #1f7f00;
 }
 
-/* line 367, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 367, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .draggable-list {
   background-color: #ffff88;
 }
 
-/* line 371, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 371, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .draggable-list.selected {
   background-color: #7fcf00;
 }
 
 /* Form :: Association Sub-Forms
    ============================== */
-/* line 379, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 379, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .sub-form table th {
   color: #555555;
 }
 
-/* line 383, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 383, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .sub-form .checkbox-list {
   background-color: white;
   border-color: #1f7f00;
 }
 
-/* line 388, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 388, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .sub-form .checkbox-list label {
   display: block;
 }
 
-/* line 392, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 392, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .sub-form table td {
   color: #999999;
 }
 
-/* line 396, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 396, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .active-scaffold .sub-form .footer {
   color: #999999;
 }
 
-/* line 400, ../../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
+/* line 400, ../../../../usr/local/rvm/gems/ruby-1.9.3-p448/gems/active_scaffold-3.3.3/app/assets/stylesheets/active_scaffold_colors.css.scss */
 .as_touch th a, .as_touch th a:visited {
   color: white;
 }
@@ -3926,8 +3926,8 @@ input[type="button"].btn-block {
 
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url('../fonts/glyphicons-halflings-regular.eot');
-  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+  src: url('glyphicons-halflings-regular.eot');
+  src: url('glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('glyphicons-halflings-regular.woff') format('woff'), url('glyphicons-halflings-regular.ttf') format('truetype'), url('glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
 }
 
 .glyphicon {
@@ -8363,6 +8363,10 @@ td.visible-print {
 .git
 {
  padding: 0px;
+}
+.font-logout
+{
+    font-size: 16px ;
 }
 .scaffold_width
 {

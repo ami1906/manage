@@ -19,6 +19,9 @@ class SessionController < ApplicationController
 
   def logout
    reset_session
+   @hits=Hits.find(1)
+   @hits.count+=1
+   @hits.save
    redirect_to "/login"
   end
 end

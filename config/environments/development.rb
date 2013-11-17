@@ -1,6 +1,7 @@
 Manage::Application.configure do
   # Settings specified here will take precedence over those in config/application.rb
 
+ config.assets.precompile += %w(eot svg ttf woff css js)
 
   # In the development environment your application's code is reloaded on
   # every request. This slows down response time but is perfect for development

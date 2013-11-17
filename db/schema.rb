@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20131115091947) do
+ActiveRecord::Schema.define(:version => 20131117115615) do
 
   create_table "branches", :force => true do |t|
     t.string   "name"
@@ -22,6 +22,12 @@ ActiveRecord::Schema.define(:version => 20131115091947) do
 
   create_table "genders", :force => true do |t|
     t.string   "name"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
+
+  create_table "hits", :force => true do |t|
+    t.integer  "count"
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
   end
