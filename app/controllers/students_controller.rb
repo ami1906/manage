@@ -11,36 +11,48 @@ before_filter :set_cache_buster,:require_login,:student_config
     conf.list.per_page = 25
     conf.action_links.add 'activate', :label => 'Restore', :type => :record, :confirm => 'Do you want to restore record?', :page => true
   end
-def beginning_of_chain
-  if isAdmin
-     active_scaffold_config.model.with_deleted
-  else
-     active_scaffold_config.model
+
+   # Overriding Active Scaffolds method to select only active records when faculty logs in 
+   # and select all records(both active and incative) when admin logs in.
+   def beginning_of_chain
+     if isAdmin
+       active_scaffold_config.model.with_deleted
+    else
+      active_scaffold_config.model
+    end
   end
-end
 
- def activate
-  @record=Student.only_deleted.find(params[:id])
-   flash[:info] = "Record #{@record.firstname} has been Restored"
-  @record.recover
-return_to_main
-end
 
-def student_config
-  active_scaffold_config.create.columns.exclude :status
-  if isAdmin
+  # Restore the deleted record
+  def activate
+    @record=Student.only_deleted.find(params[:id])
+      flash[:info] = "Record #{@record.firstname} has been Restored"
+    @record.recover
+  return_to_main
+  end
+
+  # Configure Active Scaffold for Students Controller based on Logged-in user role 
+  def student_config
+    # Exclude Status column for creat and update action
+    active_scaffold_config.create.columns.exclude :status
+    active_scaffold_config.update.columns.exclude :status
+    # Show Status Column if the logged-in user is Admin else exclude it
+    if isAdmin
       active_scaffold_config.list.columns.add :status
-   else
-     active_scaffold_config.list.columns.exclude :status
-   end
-end
- def delete_authorized? record=nil
-  isAdmin
- end
+    else
+      active_scaffold_config.list.columns.exclude :status
+    end
+  end
 
- def create_authorized? record=nil
-  isAdmin
- end
+  # Overriding Active Sacffold method to allow delete action for Admin 
+  def delete_authorized? record=nil
+   isAdmin
+  end
+
+  # Overriding Active Scaffold method to allow create action for Admin
+  def create_authorized? record=nil
+   isAdmin
+  end
 
 end
 
