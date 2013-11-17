@@ -1,8 +1,8 @@
-Paaranoid Scaffold
-==================
-
-       This app is a demonstration of Paranoid and Active Scaffold Gem. I have used Acts as Paranoid Gem for soft deletion
-       and Acts as Scaffold Gem for CRUD Action on screen.
+    Paranoid Scaffold
+    
+    
+    This app is a demonstration of Paranoid and Active Scaffold Gem. I have used Acts as Paranoid Gem for soft deletion
+    and Acts as Scaffold Gem for CRUD Action on screen.
 
        Roles: Admin, Faculty
 
