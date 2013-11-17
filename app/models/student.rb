@@ -1,4 +1,5 @@
 class Student < ActiveRecord::Base
+  validates_uniqueness_of :rollno
   attr_accessible :branch_id, :firstname, :gender_id, :lastname, :rollno, :status
   acts_as_paranoid :column => 'status', :column_type =>'string', :deleted_value => 'deleted'
 
