@@ -6,11 +6,14 @@ before_filter :set_cache_buster,:require_login,:student_config
     conf.delete.refresh_list = true
     conf.columns=[:rollno,:firstname,:lastname,:gender,:branch,:status]
     conf.search.columns = [:firstname]
+    conf.columns[:gender].clear_link
+    conf.columns[:branch].clear_link
     conf.search.live=true
     conf.list.always_show_search=true
     conf.list.per_page = 25
     conf.action_links.add 'activate', :label => 'Restore', :type => :record, :confirm => 'Do you want to restore record?', :page => true
-  end
+    conf.action_links.add 'destroy_record', :label => 'Destroy', :type => :record, :confirm => 'Do you want to remove record from Database?', :page => true
+ end
 
    # Overriding Active Scaffolds method to select only active records when faculty logs in 
    # and select all records(both active and incative) when admin logs in.
@@ -23,10 +26,18 @@ before_filter :set_cache_buster,:require_login,:student_config
   end
 
 
+  # Remove record from Database(Real Deletion)
+  def destroy_record
+   @record=Student.only_deleted.find(params[:id])
+   flash[:info] = "Record with Firstname #{@record.firstname} has been Removed from Database"
+   @record.destroy
+   return_to_main
+  end
+
   # Restore the deleted record
   def activate
     @record=Student.only_deleted.find(params[:id])
-      flash[:info] = "Record #{@record.firstname} has been Restored"
+      flash[:info] = "Record with Firstname #{@record.firstname} has been Restored"
     @record.recover
   return_to_main
   end
