@@ -6,6 +6,7 @@ Manage::Application.routes.draw do
   resources :students do 
       member do
          get 'activate'
+         get 'destroy_record'
       end
   as_routes end
 
