@@ -11,7 +11,7 @@ before_filter :set_cache_buster,:require_login,:student_config
     conf.search.live=true
     conf.list.always_show_search=true
     conf.list.per_page = 25
-    conf.action_links.add 'activate', :label => 'Restore', :type => :record, :confirm => 'Do you want to restore record?', :page => true
+    conf.action_links.add 'activate', :label => 'Activate', :type => :record, :confirm => 'Do you want to restore record?', :page => true
     conf.action_links.add 'destroy_record', :label => 'Destroy', :type => :record, :confirm => 'Do you want to remove record from Database?', :page => true
  end
 
