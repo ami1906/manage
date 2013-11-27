@@ -5,7 +5,7 @@ before_filter :set_cache_buster,:require_login,:student_config
     conf.actions=[:create,:list,:search,:update,:delete,:subform]
     conf.delete.refresh_list = true
     conf.columns=[:rollno,:firstname,:lastname,:gender,:branch,:status]
-    conf.search.columns = [:firstname]
+    conf.search.columns = [:firstname,:lastname]
     conf.columns[:gender].clear_link
     conf.columns[:branch].clear_link
     conf.search.live=true
